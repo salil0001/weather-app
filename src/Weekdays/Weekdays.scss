@@ -1,0 +1,18 @@
+.daysContainer {
+  margin: 8px 24px 8px 24px;
+  display: flex;
+  justify-content: space-around;
+  background: #7e57c2;
+  padding: 4px 0px 4px 0px;
+}
+.flexForcastContainer {
+  display: flex;
+  justify-content: space-around;
+  height: 160px;
+}
+.forcastContainer {
+  margin: 8px 0px 0px 0px;
+}
+.minMaxTemperature {
+  text-align: center;
+}
