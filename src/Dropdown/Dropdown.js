@@ -25,6 +25,7 @@ export default function Dropdown() {
   useEffect(()=>{
     //select first from the city
     fetchWeatherData(FIRST_CITY_SELECTED);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   },[])
 
   return (
