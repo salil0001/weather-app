@@ -8,7 +8,7 @@ import Weekdays from "./Weekdays";
 
 import "./App.css";
 
-const APP_ID = "c752d9e5179a5a630586da7beb5924dd";
+const APP_ID = "7ba2fc4f76fcd57ceb689e244bc3433c";
 
 function App() {
   const [state, setState] = useState(store);
