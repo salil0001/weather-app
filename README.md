@@ -27,7 +27,7 @@ This section should list any major frameworks that you built your project using.
 
 ## Installation
 
-Weather app requires [Node.js](https://nodejs.org/) v12+ to run.
+Weather app requires [Node.js](https://nodejs.org/) v18+ to run.
 
 Install the dependencies after cloning the repo and start the server.
 
