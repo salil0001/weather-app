@@ -1,4 +1,4 @@
-# weather-app
+# Weather Application in React.js
 The objective of this test is to produce a web application in javascript displaying the current weather as well as the forecasts for the next 3 days of a French city.
 
 
@@ -11,6 +11,11 @@ The objective of this test is to produce a web application in javascript display
  - [x] Select city name from dropdown and view the city weather forcast
  - [x] Weather forcast for upcoming three days
  - [x] User can type valid city 
+
+## React Concepts used
+
+ - Hooks
+ - Context
  
 ## API's integrated
  - https://api.openweathermap.org/data/2.5/weather
