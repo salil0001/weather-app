@@ -13,7 +13,8 @@ The objective of this test is to produce a web application in javascript display
  - [x] User can type valid city 
  
 ## API's integrated
-
+ - https://api.openweathermap.org/data/2.5/weather
+ - https://api.openweathermap.org/data/2.5/forecast
 
 ## TODO
 -  Auto fill input field
@@ -26,7 +27,7 @@ This section should list any major frameworks that you built your project using.
 
 ## Installation
 
-Curriculam Authoring Tool requires [Node.js](https://nodejs.org/) v12+ to run.
+Weather app requires [Node.js](https://nodejs.org/) v12+ to run.
 
 Install the dependencies after cloning the repo and start the server.
 
